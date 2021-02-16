@@ -1,0 +1,1 @@
+THIS IS MY FIRST GIT PROJECT!! well technically it isnt, but i am starting again.
